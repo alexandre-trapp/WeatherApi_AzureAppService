@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>ApiPrevisaoTempo</name>
+    </assembly>
+    <members>
+        <member name="M:WeatherApiService.Controllers.WeatherForecastController.Get(System.String)">
+            <summary>
+            Code from city to request api Weather
+            </summary>
+        </member>
+        <member name="M:WeatherApiService.Controllers.WeatherForecastController.GetCities(System.String)">
+            <summary>
+            Codes from cities to request api Weather, separated with ',' or ';'
+            </summary>
+        </member>
+    </members>
+</doc>
